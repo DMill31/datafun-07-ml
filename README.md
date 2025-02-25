@@ -57,3 +57,25 @@ Lastly, we will select our VS Code Interpreter
 Now your project is ready and the real fun can begin
 
 Don't forget to regularly Git add-commit-push to keep everything up to date
+
+## Workflow for this Notebook
+
+### Part 1 - Chart a Straight Line
+
+This short section focuses solely on learning how to graph using axes with a slope and intercept.  The graph made compares Fahrenheit and Celsius values.
+
+### Part 2 - Prediction
+
+Part 2 focuses on creating a linear regression line to fit the Average High in NYC January 1895-2018 dataset.  
+
+The data is first cleaned, then the model is built using stats from scipy.
+
+At the end, the linear regression line is graphed with the data for a nice visual.
+
+### Part 3 - Prediction
+
+Following a similar pattern to Part 2, another linear regression line is made to fit the same dataset.
+
+This time, however, the model is built using LinearRegression() from sklearn.
+
+This linear regression line is also graphed with the data for another nice visual.
