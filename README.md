@@ -79,3 +79,7 @@ Following a similar pattern to Part 2, another linear regression line is made to
 This time, however, the model is built using LinearRegression() from sklearn.
 
 This linear regression line is also graphed with the data for another nice visual.
+
+### Part 4 - Insights
+
+Part 4 is where we compare the two methods.  Details such as accuracy and runtime are discussed here to try to tell if one method is ultimately a better choice than the other.  
